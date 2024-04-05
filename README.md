@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @VillarGabriel
 - 👀 I’m interested in learn how to program. I wish to be an excellent Dev.
-- 🌱 I’m currently learning the basics (Html, CSS, JavaScript, etc.)
-- 💞️ I’m 
-- 📫 How to reach me ...
-- 😄 Pronouns: Batman.
+- 🌱 I’m currently learning the basics (Html, CSS, JavaScript, etc.),
+- 😄 Pronouns: Batman. Whatever I don't care too much about this. 
 - ⚡ Fun fact: I used to be a Skateboarder. But my broken leg don't. LOL
 
 <!---
